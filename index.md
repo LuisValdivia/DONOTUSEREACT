@@ -1,5 +1,5 @@
 
-![image](/assets/images/your-image.jpg)
+![image](/REACT.png)
 
 
 ## Desventajas de usar REACT NATIVE

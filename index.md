@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Desventajas de usar REACT NATIVE
 
-You can use the [editor on GitHub](https://github.com/LuisValdivia/DONOTUSEREACT/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Programar aplicaciones móviles con tecnología [Bridged] puede resultar ventajoso dependiendo del tipo de proyecto a realizar, para algunos puede ser la solución ideal para reducir tiempo y costos en el desarrollo, pero en otros, simplemente puedes acarrear todos los problemas que existen en una tecnología que no es nativa de la plataforma y comprometer el rendimiento esperado. Esto le ocurrió a la empresa Airbnb, mediante una serie de posts explicaron su experiencia bajo esta tecnología Bridged llamada React Native y detallaron por qué migrarán a las tecnologías 100 % nativas tanto para Android como iOS.
 
 ### Markdown
 
